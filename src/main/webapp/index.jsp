@@ -1,0 +1,12 @@
+
+
+
+
+
+
+
+
+
+
+
+<% response.sendRedirect("courses/list"); %>
